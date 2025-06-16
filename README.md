@@ -1,4 +1,8 @@
-# ISRO Computer Science Engineering Syllabus
+# ISRO Scientist 
+
+## Computer Science Engineering Syllabus & Most IMP Topics 
+
+![Subjects vs Marks](image.png)
 
 ## C/C++ Programming [1]
 - Pointers
