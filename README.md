@@ -7,7 +7,10 @@
 ## C/C++ Programming [1]
 - Pointers
 
-## 📘 Data Structures and Algorithms [10]
+## Java [1]
+- JVM
+
+## 📘 Data Structures and Algorithms [12]
 - Arrays
 - Linked Lists  
 - Stacks  
@@ -63,7 +66,7 @@ Booting
 
 
 
-## 🗄️ Database Management Systems (DBMS) [4]
+## 🗄️ Database Management Systems (DBMS) [6]
 - Relational Model  
 - SQL  
 - Normalization 
@@ -137,7 +140,7 @@ Booting
 
     
 
-## 🧑‍💻 Software Engineering [3]
+## 🧑‍💻 Software Engineering [5]
 - Software Development Life Cycle (SDLC)  
 - Software Design Patterns  
 - Testing  
@@ -152,7 +155,7 @@ Booting
 
 
 
-## 🔢 Discrete Mathematics [7]
+## 🔢 Discrete Mathematics [8]
 - Set Theory  
 - Logic  
     - First order logic
@@ -173,7 +176,7 @@ Booting
 - Determinants 
 
 
-## Automata Theory [9]
+## Automata Theory [10]
 - Languages
 - NFA
 - CFG
@@ -192,15 +195,14 @@ Booting
 
 ## Extras [7]
 - HDFS
-- Java 
-    - JVM
 - Machine Learning
     - K-Means Algorithm (Which type of technique is it?)
 - Cassandra 
     - Which type of data storage system is Cassandra??
 - Cloud Computing
     - Temporarily renting 
-- CAPTCHA 
+- CAPTCHA In Webpages
+- Cookies (this time i can expect question on this??)
 
                      
 
