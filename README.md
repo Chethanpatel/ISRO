@@ -208,3 +208,6 @@ Booting
 
 
 
+## References
+
+- [Physics Wallah Notes](https://www.pw.live/gate/exams/gate-cse-notes)
